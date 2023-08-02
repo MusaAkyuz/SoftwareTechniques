@@ -1,0 +1,15 @@
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\bin\Debug\net6.0\ConstructerInjection.exe
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\bin\Debug\net6.0\ConstructerInjection.deps.json
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\bin\Debug\net6.0\ConstructerInjection.runtimeconfig.json
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\bin\Debug\net6.0\ConstructerInjection.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\bin\Debug\net6.0\ConstructerInjection.pdb
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\ConstructerInjection.csproj.AssemblyReference.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\ConstructerInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\ConstructerInjection.AssemblyInfoInputs.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\ConstructerInjection.AssemblyInfo.cs
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\ConstructerInjection.csproj.CoreCompileInputs.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\ConstructerInjection.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\refint\ConstructerInjection.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\ConstructerInjection.pdb
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\ConstructerInjection.genruntimeconfig.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\ConstructerInjection\ConstructerInjection\obj\Debug\net6.0\ref\ConstructerInjection.dll

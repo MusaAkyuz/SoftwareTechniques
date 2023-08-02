@@ -1,0 +1,15 @@
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\bin\Debug\net6.0\SetterInjection.exe
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\bin\Debug\net6.0\SetterInjection.deps.json
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\bin\Debug\net6.0\SetterInjection.runtimeconfig.json
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\bin\Debug\net6.0\SetterInjection.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\bin\Debug\net6.0\SetterInjection.pdb
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\SetterInjection.csproj.AssemblyReference.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\SetterInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\SetterInjection.AssemblyInfoInputs.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\SetterInjection.AssemblyInfo.cs
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\SetterInjection.csproj.CoreCompileInputs.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\SetterInjection.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\refint\SetterInjection.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\SetterInjection.pdb
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\SetterInjection.genruntimeconfig.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\DependencyInjection\SetterInjection\SetterInjection\obj\Debug\net6.0\ref\SetterInjection.dll
