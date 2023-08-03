@@ -1,0 +1,15 @@
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\bin\Debug\net6.0\InterfaceBasic.exe
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\bin\Debug\net6.0\InterfaceBasic.deps.json
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\bin\Debug\net6.0\InterfaceBasic.runtimeconfig.json
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\bin\Debug\net6.0\InterfaceBasic.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\bin\Debug\net6.0\InterfaceBasic.pdb
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\InterfaceBasic.csproj.AssemblyReference.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\InterfaceBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\InterfaceBasic.AssemblyInfoInputs.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\InterfaceBasic.AssemblyInfo.cs
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\InterfaceBasic.csproj.CoreCompileInputs.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\InterfaceBasic.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\refint\InterfaceBasic.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\InterfaceBasic.pdb
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\InterfaceBasic.genruntimeconfig.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Cache\InterfaceBasic\InterfaceBasic\obj\Debug\net6.0\ref\InterfaceBasic.dll

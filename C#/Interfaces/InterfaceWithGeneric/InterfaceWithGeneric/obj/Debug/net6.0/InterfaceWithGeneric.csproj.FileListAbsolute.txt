@@ -1,0 +1,15 @@
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\InterfaceWithGeneric.csproj.AssemblyReference.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\InterfaceWithGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\InterfaceWithGeneric.AssemblyInfoInputs.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\InterfaceWithGeneric.AssemblyInfo.cs
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\InterfaceWithGeneric.csproj.CoreCompileInputs.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\bin\Debug\net6.0\InterfaceWithGeneric.exe
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\bin\Debug\net6.0\InterfaceWithGeneric.deps.json
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\bin\Debug\net6.0\InterfaceWithGeneric.runtimeconfig.json
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\bin\Debug\net6.0\InterfaceWithGeneric.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\bin\Debug\net6.0\InterfaceWithGeneric.pdb
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\InterfaceWithGeneric.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\refint\InterfaceWithGeneric.dll
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\InterfaceWithGeneric.pdb
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\InterfaceWithGeneric.genruntimeconfig.cache
+C:\Users\muss\source\repos\SoftwareTechniques\C#\Interfaces\InterfaceWithGeneric\InterfaceWithGeneric\obj\Debug\net6.0\ref\InterfaceWithGeneric.dll
