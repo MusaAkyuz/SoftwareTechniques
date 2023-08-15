@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CodeFirst_Migrations
-build_property.ProjectDir = C:\Users\muss\Source\Repos\SoftwareTechniques\C#\EntityFrameworkDB\CodeFirst-Migrations\CodeFirst-Migrations\
+build_property.ProjectDir = C:\Users\muss\source\repos\SoftwareTechniques\C#\EntityFrameworkDB\CodeFirst-Migrations\CodeFirst-Migrations\
