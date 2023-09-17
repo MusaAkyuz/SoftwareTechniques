@@ -1,0 +1,14 @@
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\bin\Debug\net6.0\InterfaceFactoryPattern.exe
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\bin\Debug\net6.0\InterfaceFactoryPattern.deps.json
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\bin\Debug\net6.0\InterfaceFactoryPattern.runtimeconfig.json
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\bin\Debug\net6.0\InterfaceFactoryPattern.dll
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\bin\Debug\net6.0\InterfaceFactoryPattern.pdb
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\obj\Debug\net6.0\InterfaceFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\obj\Debug\net6.0\InterfaceFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\obj\Debug\net6.0\InterfaceFactoryPattern.AssemblyInfo.cs
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\obj\Debug\net6.0\InterfaceFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\obj\Debug\net6.0\InterfaceFactoryPattern.dll
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\obj\Debug\net6.0\refint\InterfaceFactoryPattern.dll
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\obj\Debug\net6.0\InterfaceFactoryPattern.pdb
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\obj\Debug\net6.0\InterfaceFactoryPattern.genruntimeconfig.cache
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\FactoryPattern\InterfaceFactoryPattern\InterfaceFactoryPattern\obj\Debug\net6.0\ref\InterfaceFactoryPattern.dll
