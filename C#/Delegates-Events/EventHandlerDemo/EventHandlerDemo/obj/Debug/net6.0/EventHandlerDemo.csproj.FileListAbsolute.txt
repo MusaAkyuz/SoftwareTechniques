@@ -1,0 +1,14 @@
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.exe
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.deps.json
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.runtimeconfig.json
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.dll
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\bin\Debug\net6.0\EventHandlerDemo.pdb
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.AssemblyInfoInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.AssemblyInfo.cs
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.csproj.CoreCompileInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.dll
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\obj\Debug\net6.0\refint\EventHandlerDemo.dll
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.pdb
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\obj\Debug\net6.0\EventHandlerDemo.genruntimeconfig.cache
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\Delegates-Events\EventHandlerDemo\EventHandlerDemo\obj\Debug\net6.0\ref\EventHandlerDemo.dll

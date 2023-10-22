@@ -1,0 +1,14 @@
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\bin\Debug\net6.0\ConditionalDataAnnotation.exe
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\bin\Debug\net6.0\ConditionalDataAnnotation.deps.json
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\bin\Debug\net6.0\ConditionalDataAnnotation.runtimeconfig.json
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\bin\Debug\net6.0\ConditionalDataAnnotation.dll
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\bin\Debug\net6.0\ConditionalDataAnnotation.pdb
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\obj\Debug\net6.0\ConditionalDataAnnotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\obj\Debug\net6.0\ConditionalDataAnnotation.AssemblyInfoInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\obj\Debug\net6.0\ConditionalDataAnnotation.AssemblyInfo.cs
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\obj\Debug\net6.0\ConditionalDataAnnotation.csproj.CoreCompileInputs.cache
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\obj\Debug\net6.0\ConditionalDataAnnotation.dll
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\obj\Debug\net6.0\refint\ConditionalDataAnnotation.dll
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\obj\Debug\net6.0\ConditionalDataAnnotation.pdb
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\obj\Debug\net6.0\ConditionalDataAnnotation.genruntimeconfig.cache
+C:\Users\musak\OneDrive\Masaüstü\Repos\SoftwareTechniques\C#\DataAnnotation\ConditionalDataAnnotation\ConditionalDataAnnotation\obj\Debug\net6.0\ref\ConditionalDataAnnotation.dll
