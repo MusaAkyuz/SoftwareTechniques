@@ -1,4 +1,39 @@
+# ---- .NET / Visual Studio build output ----
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
+# ---- Visual Studio cache/options ----
+.vs/
 
-#Ignore vscode AI rules
-.github\instructions\codacy.instructions.md
+# ---- Windows Installer build output (vdproj) ----
+Debug/
+Release/
+*.msi
+*.msm
+*.msp
+
+# ---- NuGet ----
+packages/
+*.nupkg
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# ---- Env / secrets ----
+.env
+.env.*
+
+# ---- OS noise ----
+.DS_Store
+Thumbs.db
+
+# ---- AI assistant local rules ----
+.github/instructions/codacy.instructions.md
